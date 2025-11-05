@@ -1,0 +1,21 @@
+customer_id,tenure,monthly_charges,total_charges,contract_type,payment_method,paperless_billing,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,monthly_usage_gb,customer_service_calls,churn
+CUST001,12,150,1800,Month-to-month,Electronic check,1,0,0,0,0,0,0,200,4,1
+CUST002,24,200,4800,One year,Bank transfer,0,1,1,1,1,1,1,300,1,0
+CUST003,6,100,600,Month-to-month,Credit card,1,0,0,0,0,0,0,150,3,1
+CUST004,48,180,8640,Two year,Bank transfer,0,1,1,1,1,1,1,250,0,0
+CUST005,3,120,360,Month-to-month,Electronic check,1,0,0,0,0,0,0,100,6,1
+CUST006,36,220,7920,Two year,Credit card,0,1,1,1,1,1,1,400,1,0
+CUST007,18,160,2880,One year,Mailed check,0,1,1,1,1,1,1,350,2,0
+CUST008,1,90,90,Month-to-month,Electronic check,1,0,0,0,0,0,0,50,5,1
+CUST009,60,250,15000,Two year,Bank transfer,0,1,1,1,1,1,1,500,0,0
+CUST010,9,130,1170,Month-to-month,Credit card,1,0,0,0,0,0,0,180,4,1
+CUST011,30,190,5700,One year,Bank transfer,0,1,1,1,1,1,1,320,1,0
+CUST012,4,110,440,Month-to-month,Electronic check,1,0,0,0,0,0,0,120,3,1
+CUST013,42,210,8820,Two year,Credit card,0,1,1,1,1,1,1,450,0,0
+CUST014,15,140,2100,One year,Mailed check,0,1,1,1,1,1,1,280,2,0
+CUST015,2,95,190,Month-to-month,Electronic check,1,0,0,0,0,0,0,80,6,1
+CUST016,54,230,12420,Two year,Bank transfer,0,1,1,1,1,1,1,480,0,0
+CUST017,7,105,735,Month-to-month,Credit card,1,0,0,0,0,0,0,160,4,1
+CUST018,27,170,4590,One year,Bank transfer,0,1,1,1,1,1,1,330,1,0
+CUST019,5,115,575,Month-to-month,Electronic check,1,0,0,0,0,0,0,140,5,1
+CUST020,33,200,6600,One year,Credit card,0,1,1,1,1,1,1,370,1,0
